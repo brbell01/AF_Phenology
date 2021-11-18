@@ -1,0 +1,3 @@
+#paste this command to run the full chain processing
+
+sh S1_fullprocessing_batch.bash Sentinel-1_fullchain_gpt.xml fullchain.properties "/Users/brbell01/Documents/git/DATA/Sentinel-1/path_82_frame_648" "/Users/brbell01/Documents/git/DATA/Sentinel-1/path_82_frame_648_process/VH" "/Users/brbell01/Documents/git/DATA/Sentinel-1/path_82_frame_648_process/VV" sub_Orb_Thm_Cal_dB_TC_VH sub_Orb_Thm_Cal_dB_TC_VV
